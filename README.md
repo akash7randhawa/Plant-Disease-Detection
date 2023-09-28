@@ -1,10 +1,7 @@
 # Plant Disease Detection using Deep Learning
 
-
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/abhijeet3447/plant-disease-detection.svg)](https://github.com/abhijeet3447/plant-disease-detection/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/abhijeet3447/plant-disease-detection.svg)](https://github.com/abhijeet3447/plant-disease-detection/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/akash7randhawa/Plant-Disease-Detection.svg)](https://github.com/akash7randhawa/Plant-Disease-Detection/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/akash7randhawa/Plant-Disease-Detection.svg)](https://github.com/akash7randhawa/Plant-Disease-Detection/issues)
 
 ## Table of Contents
 
@@ -22,7 +19,7 @@ Plant Disease Detection using Deep Learning is an open-source project that aims 
 Key features:
 - Deep learning model for plant disease detection.
 - Pretrained models for easy deployment.
-- User-friendly web or mobile application (if applicable).
+- User-friendly web or mobile application.
 
 
 ### Prerequisites
@@ -32,7 +29,6 @@ Before you begin, ensure you have met the following requirements:
 - TensorFlow
 - Keras
 - OpenCV
-- Other dependencies (mention if any)
 
 ## Dataset
 Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
@@ -45,7 +41,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Commit your changes (`git commit -m 'Add some feature'`).
 - Push to the branch (`git push origin feature/your-feature`).
 - Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
